@@ -1,0 +1,26 @@
+
+header {
+    color: rgb(57, 78, 169);
+}
+
+body {
+    font-size: 22px;
+}
+h1,h2{
+    color: rgb(54, 125, 192);
+}
+p {
+    color: purple;
+}
+p span{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
